@@ -11,7 +11,7 @@
             <div class="col s12 l8 offset-l2">
                 <div class="card">
                     <div class="card-content">
-                        <span class="card-title">Card Title</span>
+                        <span class="card-title">Login</span>
                         <form action="{{ route('login') }}" method="post">
                             @csrf
                             <div class="row">
