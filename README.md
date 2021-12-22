@@ -3,6 +3,7 @@
 # Laravel installtion guide
 
 <p>composer install<p>
+    <p>npm install </p>
  <p>cp .env.example .env</p>
 <p>Php artisan key:generate</p>
 <p>create database=>attendance</p>
