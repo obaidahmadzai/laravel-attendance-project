@@ -4,9 +4,9 @@
 
 <p>composer install</p>
 <p>create .ENV</p>
-    Php artisan key:generate
-create database:attendance
-php artisan migrate
+    <p>Php artisan key:generate</p>
+<p>create database:attendance</p>
+<p>php artisan migrate</p>
 
 php artisan create:admin  => "username=admin@gmail.com password=admin"
 
