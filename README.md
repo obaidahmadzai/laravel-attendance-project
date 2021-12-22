@@ -2,9 +2,9 @@
 
 # Laravel installtions guide
 
-<br>composer install</br>
-create .ENV
-php artisan key:generate
+<p>composer install</p>
+<p>create .ENV</p>
+Php artisan key:generate
 create database:attendance
 php artisan migrate
 
