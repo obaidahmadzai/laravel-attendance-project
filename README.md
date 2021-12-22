@@ -2,7 +2,7 @@
 
 # Laravel installtions guide
 
-composer install
+<br>composer install</br>
 create .ENV
 php artisan key:generate
 create database:attendance
