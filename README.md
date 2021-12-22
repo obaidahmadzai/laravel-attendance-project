@@ -3,7 +3,7 @@
 # Laravel installtions guide
 
 composer install
-create .ENV
+ create .ENV
 Php artisan key:generate
 create database=>attendance
 php artisan migrate
