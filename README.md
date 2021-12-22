@@ -4,7 +4,7 @@
 
 <p>composer install</p>
 <p>create .ENV</p>
-Php artisan key:generate
+    Php artisan key:generate
 create database:attendance
 php artisan migrate
 
