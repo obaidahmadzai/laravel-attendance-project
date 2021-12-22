@@ -6,7 +6,7 @@
 <ul class="sidenav sidenav-fixed" id="sidenav">
     <li>
         <div style="width: 50%; margin:0 auto;">
-            <img src="{{asset('img/logo.gif')}}" width="100%">
+            <img src="{{asset('img/logo.png')}}" width="100%">
         </div>
     </li>
 
