@@ -1,11 +1,11 @@
 # laravel-attendance-project
 
-# Laravel installtions guide
+# Laravel installtion guide
 
-composer install
- create .ENV
-Php artisan key:generate
-create database=>attendance
-php artisan migrate
-php artisan create:admin  => "username=admin@gmail.com password=admin"
-php artisan serve
+<p>composer install<p>
+ <p>create .ENV</p>
+<p>Php artisan key:generate</p>
+<p>create database=>attendance</p>
+<p>php artisan migrate</p>
+<p>php artisan create:admin  => "username=admin@gmail.com password=admin"</p>
+<p>php artisan serve</p>
